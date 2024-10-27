@@ -23,9 +23,9 @@ Obviamente tiene unos cuantos error unos ya conocidos y otros no pero por si las
 - Fresh menu and new design
 - Take the world of roleplay a little further
 
-## New Preview (with Tattoos)
+## Preview
 
-
+https://youtu.be/QVmt2nPDNJg?si=oAg2mWXFkzMoutDy
 
 ## Credits
 Completely free script created by GOODNETWORK.
