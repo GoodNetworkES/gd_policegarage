@@ -1,4 +1,4 @@
-![](https://i.imgur.com/kp0oHJK.jpeg)
+![image](https://github.com/user-attachments/assets/f29189ab-2d12-44cb-8b0c-1f033f65228f)![image](https://github.com/user-attachments/assets/bd672b44-7ddb-4800-9790-d2af45f4d280)![](https://i.imgur.com/kp0oHJK.jpeg)
 
 # GOOD NETWORK POLICE GARAGE
 [Discord](https://discord.gg/4PgngbsR5T)
@@ -6,7 +6,7 @@ Police garage with new and fresh design completely optimized, **THIS SCRIPT** is
 
 ## Preview
 
-![](blob:https://imgur.com/2eda13ce-e4f1-4531-99df-663c0652d229)
+![](https://i.imgur.com/mQiYwil.png)
 
 ## Dependencies
 
